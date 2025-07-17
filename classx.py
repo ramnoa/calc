@@ -1,1 +1,1 @@
-print("Am a data scientist")
+print("Amazing Calculator! Let's do some math! 🎉")
